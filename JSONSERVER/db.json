@@ -1,0 +1,613 @@
+{
+    "products": [
+        {
+            "productNumber": "0001",
+            "name": "Chair SALLY",
+            "category": "chair",
+            "price": "33",
+            "color": "black",
+            "imageL": "./products/chairs/chair-1-500x500.jpg",
+            "imageS": "./products/chairs/chair-1-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et"
+        },
+        {
+            "productNumber": "0002",
+            "name": "Chair HUNTER",
+            "category": "chair",
+            "price": "83",
+            "color": "white",
+            "imageL": "./products/chairs/chair-2-500x500.jpg",
+            "imageS": "./products/chairs/chair-2-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0003",
+            "name": "Chair NICO",
+            "category": "chair",
+            "price": "28",
+            "color": "white",
+            "imageL": "./products/chairs/chair-3-500x500.jpg",
+            "imageS": "./products/chairs/chair-3-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0004",
+            "name": "Chair HAROON",
+            "category": "chair",
+            "price": "41",
+            "color": "white",
+            "imageL": "./products/chairs/chair-4-500x500.jpg",
+            "imageS": "./products/chairs/chair-4-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0005",
+            "name": "Chair JOHN",
+            "category": "chair",
+            "price": "76",
+            "color": "brown",
+            "imageL": "./products/chairs/chair-5-500x500.jpg",
+            "imageS": "./products/chairs/chair-5-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0006",
+            "name": "Chair CHRIS",
+            "category": "chair",
+            "price": "59",
+            "color": "white",
+            "imageL": "./products/chairs/chair-6-500x500.jpg",
+            "imageS": "./products/chairs/chair-6-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0007",
+            "name": "Chair GREG",
+            "category": "chair",
+            "price": "23",
+            "color": "brown",
+            "imageL": "./products/chairs/chair-7-500x500.jpg",
+            "imageS": "./products/chairs/chair-7-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0008",
+            "name": "Chair BLAKE",
+            "category": "chair",
+            "price": "88",
+            "color": "brown",
+            "imageL": "./products/chairs/chair-8-500x500.jpg",
+            "imageS": "./products/chairs/chair-8-s-200x200.jpg"
+        },
+        {
+            "productNumber": "0009",
+            "name": "Chair HANNA",
+            "category": "chair",
+            "price": "45",
+            "color": "brown",
+            "imageL": "./products/chairs/chair-9-500x500.jpg",
+            "imageS": "./products/chairs/chair-9-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0010",
+            "name": "Chair JACK",
+            "category": "chair",
+            "price": "32",
+            "color": "orange",
+            "imageL": "./products/chairs/chair-10-500x500.jpg",
+            "imageS": "./products/chairs/chair-10-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0011",
+            "name": "Chair SARA",
+            "category": "chair",
+            "price": "39",
+            "color": "brown",
+            "imageL": "./products/chairs/chair-11-500x500.jpg",
+            "imageS": "./products/chairs/chair-11-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0012",
+            "name": "Chair ED",
+            "category": "chair",
+            "price": "61",
+            "color": "brown",
+            "imageL": "./products/chairs/chair-12-500x500.jpg",
+            "imageS": "./products/chairs/chair-12-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0013",
+            "name": "Chair FRANK",
+            "category": "chair",
+            "price": "30",
+            "color": "black",
+            "imageL": "./products/chairs/chair-13-500x500.jpg",
+            "imageS": "./products/chairs/chair-13-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0014",
+            "name": "Chair INGRID",
+            "category": "chair",
+            "price": "87",
+            "color": "red",
+            "imageL": "./products/chairs/chair-14-500x500.jpg",
+            "imageS": "./products/chairs/chair-14-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0015",
+            "name": "Chair KAI",
+            "category": "chair",
+            "price": "37",
+            "color": "black",
+            "imageL": "./products/chairs/chair-15-500x500.jpg",
+            "imageS": "./products/chairs/chair-15-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0016",
+            "name": "Couch LIZ",
+            "category": "couch",
+            "price": "789",
+            "color": "black",
+            "imageL": "./products/couches/couch-1-500x500.jpg",
+            "imageS": "./products/couches/couch-1-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0017",
+            "name": "Couch JULE",
+            "category": "couch",
+            "price": "1200",
+            "color": "grey",
+            "imageL": "./products/couches/couch-2-500x500.jpg",
+            "imageS": "./products/couches/couch-2-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0018",
+            "name": "Couch MARIA",
+            "category": "couch",
+            "price": "1632",
+            "color": "brown",
+            "imageL": "./products/couches/couch-3-500x500.jpg",
+            "imageS": "./products/couches/couch-3-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0019",
+            "name": "Couch NICK",
+            "category": "couch",
+            "price": "588",
+            "color": "black",
+            "imageL": "./products/couches/couch-4-500x500.jpg",
+            "imageS": "./products/couches/couch-4-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0020",
+            "name": "Couch AARON",
+            "category": "couch",
+            "price": "2300",
+            "color": "red",
+            "imageL": "./products/couches/couch-5-500x500.jpg",
+            "imageS": "./products/couches/couch-5-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0021",
+            "name": "Couch LOUIS",
+            "category": "couch",
+            "price": "1650",
+            "color": "brown",
+            "imageL": "./products/couches/couch-6-500x500.jpg",
+            "imageS": "./products/couches/couch-6-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0022",
+            "name": "Couch ROSE",
+            "category": "couch",
+            "price": "732",
+            "color": "black",
+            "imageL": "./products/couches/couch-7-500x500.jpg",
+            "imageS": "./products/couches/couch-7-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0023",
+            "name": "Couch ADELLE",
+            "category": "couch",
+            "price": "989",
+            "color": "grey",
+            "imageL": "./products/couches/couch-8-500x500.jpg",
+            "imageS": "./products/couches/couch-8-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0024",
+            "name": "Couch CLAUDIA",
+            "category": "couch",
+            "price": "1018",
+            "color": "grey",
+            "imageL": "./products/couches/couch-9-500x500.jpg",
+            "imageS": "./products/couches/couch-9-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0025",
+            "name": "Couch CORRY",
+            "category": "couch",
+            "price": "1369",
+            "color": "brown",
+            "imageL": "./products/couches/couch-10-500x500.jpg",
+            "imageS": "./products/couches/couch-10-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0026",
+            "name": "Couch LISA",
+            "category": "couch",
+            "price": "1110",
+            "color": "grey",
+            "imageL": "./products/couches/couch-11-500x500.jpg",
+            "imageS": "./products/couches/couch-11-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0027",
+            "name": "Couch BRITTA",
+            "category": "couch",
+            "price": "599",
+            "color": "orange",
+            "imageL": "./products/couches/couch-12-500x500.jpg",
+            "imageS": "./products/couches/couch-12-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0028",
+            "name": "Couch JANINA",
+            "category": "couch",
+            "price": "1890",
+            "color": "black",
+            "imageL": "./products/couches/couch-13-500x500.jpg",
+            "imageS": "./products/couches/couch-13-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0029",
+            "name": "Couch DORIS",
+            "category": "couch",
+            "price": "1340",
+            "color": "white",
+            "imageL": "./products/couches/couch-14-500x500.jpg",
+            "imageS": "./products/couches/couch-14-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0030",
+            "name": "Couch BLAIR",
+            "category": "couch",
+            "price": "850",
+            "color": "yellow",
+            "imageL": "./products/couches/couch-15-500x500.jpg",
+            "imageS": "./products/couches/couch-15-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0031",
+            "name": "Lamp PETER",
+            "category": "lamp",
+            "price": "55",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-1-500x500.jpg",
+            "imageS": "./products/lamps/lamp-1-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0032",
+            "name": "Lamp MUSTAFA",
+            "category": "lamp",
+            "price": "75",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-2-500x500.jpg",
+            "imageS": "./products/lamps/lamp-2-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0033",
+            "name": "Lamp SAM",
+            "category": "lamp",
+            "price": "23",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-3-500x500.jpg",
+            "imageS": "./products/lamps/lamp-3-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0034",
+            "name": "Lamp FRANKIE",
+            "category": "lamp",
+            "price": "88",
+            "color": "white",
+            "imageL": "./products/lamps/lamp-4-500x500.jpg",
+            "imageS": "./products/lamps/lamp-4-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0035",
+            "name": "Lamp TIM",
+            "category": "lamp",
+            "price": "98",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-5-500x500.jpg",
+            "imageS": "./products/lamps/lamp-5-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0036",
+            "name": "Lamp RON",
+            "category": "lamp",
+            "price": "38",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-6-500x500.jpg",
+            "imageS": "./products/lamps/lamp-6-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0037",
+            "name": "Lamp KELLY",
+            "category": "lamp",
+            "price": "78",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-7-500x500.jpg",
+            "imageS": "./products/lamps/lamp-7-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0038",
+            "name": "Lamp GRACE",
+            "category": "lamp",
+            "price": "43",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-8-500x500.jpg",
+            "imageS": "./products/lamps/lamp-8-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0039",
+            "name": "Lamp RAY",
+            "category": "lamp",
+            "price": "37",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-9-500x500.jpg",
+            "imageS": "./products/lamps/lamp-9-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0040",
+            "name": "Lamp DAN",
+            "category": "lamp",
+            "price": "67",
+            "color": "gold",
+            "imageL": "./products/lamps/lamp-10-500x500.jpg",
+            "imageS": "./products/lamps/lamp-10-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0041",
+            "name": "Lamp MARC",
+            "category": "lamp",
+            "price": "33",
+            "color": "white",
+            "imageL": "./products/lamps/lamp-11-500x500.jpg",
+            "imageS": "./products/lamps/lamp-11-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0042",
+            "name": "Lamp PAUL",
+            "category": "lamp",
+            "price": "49",
+            "color": "gold",
+            "imageL": "./products/lamps/lamp-12-500x500.jpg",
+            "imageS": "./products/lamps/lamp-12-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0043",
+            "name": "Lamp HANNA",
+            "category": "lamp",
+            "price": "29",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-13-500x500.jpg",
+            "imageS": "./products/lamps/lamp-13-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0044",
+            "name": "Lamp AHMAD",
+            "category": "lamp",
+            "price": "32",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-14-500x500.jpg",
+            "imageS": "./products/lamps/lamp-14-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0045",
+            "name": "Lamp BARRY",
+            "category": "lamp",
+            "price": "26",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-15-500x500.jpg",
+            "imageS": "./products/lamps/lamp-15-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0046",
+            "name": "Lamp BOB",
+            "category": "lamp",
+            "price": "42",
+            "color": "white",
+            "imageL": "./products/lamps/lamp-16-500x500.jpg",
+            "imageS": "./products/lamps/lamp-16-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0047",
+            "name": "Lamp JANE",
+            "category": "lamp",
+            "price": "49",
+            "color": "white",
+            "imageL": "./products/lamps/lamp-17-500x500.jpg",
+            "imageS": "./products/lamps/lamp-17-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0048",
+            "name": "Lamp JULIA",
+            "category": "lamp",
+            "price": "57",
+            "color": "black",
+            "imageL": "./products/lamps/lamp-18-500x500.jpg",
+            "imageS": "./products/lamps/lamp-18-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0049",
+            "name": "Table KATE",
+            "category": "table",
+            "price": "65",
+            "color": "grey",
+            "imageL": "./products/tables/table-1-500x500.jpg",
+            "imageS": "./products/tables/table-1-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0050",
+            "name": "Table PHIL",
+            "category": "table",
+            "price": "88",
+            "color": "brown",
+            "imageL": "./products/tables/table-2-500x500.jpg",
+            "imageS": "./products/tables/table-2-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0052",
+            "name": "Table RICHARD",
+            "category": "table",
+            "price": "58",
+            "color": "brown",
+            "imageL": "./products/tables/table-3-500x500.jpg",
+            "imageS": "./products/tables/table-3-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0053",
+            "name": "Table MEL",
+            "category": "table",
+            "price": "59",
+            "color": "white",
+            "imageL": "./products/tables/table-4-500x500.jpg",
+            "imageS": "./products/tables/table-4-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0054",
+            "name": "Table ARIELE",
+            "category": "table",
+            "price": "78",
+            "color": "white",
+            "imageL": "./products/tables/table-5-500x500.jpg",
+            "imageS": "./products/tables/table-5-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0055",
+            "name": "Table ELSA",
+            "category": "table",
+            "price": "65",
+            "color": "grey",
+            "imageL": "./products/tables/table-6-500x500.jpg",
+            "imageS": "./products/tables/table-6-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0056",
+            "name": "Table ANNA",
+            "category": "table",
+            "price": "99",
+            "color": "brown",
+            "imageL": "./products/tables/table-7-500x500.jpg",
+            "imageS": "./products/tables/table-7-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0057",
+            "name": "Table ELIZA",
+            "category": "table",
+            "price": "115",
+            "color": "black",
+            "imageL": "./products/tables/table-8-500x500.jpg",
+            "imageS": "./products/tables/table-8-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0058",
+            "name": "Table FRED",
+            "category": "table",
+            "price": "53",
+            "color": "white",
+            "imageL": "./products/tables/table-9-500x500.jpg",
+            "imageS": "./products/tables/table-9-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0059",
+            "name": "Table MIA",
+            "category": "table",
+            "price": "87",
+            "color": "brown",
+            "imageL": "./products/tables/table-10-500x500.jpg",
+            "imageS": "./products/tables/table-10-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0060",
+            "name": "Table SUSIE",
+            "category": "table",
+            "price": "99",
+            "color": "white",
+            "imageL": "./products/tables/table-11-500x500.jpg",
+            "imageS": "./products/tables/table-11-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0061",
+            "name": "Table KARIN",
+            "category": "table",
+            "price": "130",
+            "color": "brown",
+            "imageL": "./products/tables/table-12-500x500.jpg",
+            "imageS": "./products/tables/table-12-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        },
+        {
+            "productNumber": "0062",
+            "name": "Table WAYNE",
+            "category": "table",
+            "price": "105",
+            "color": "black",
+            "imageL": "./products/tables/table-13-500x500.jpg",
+            "imageS": "./products/tables/table-13-s-200x200.jpg",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea"
+        }
+    ]
+}

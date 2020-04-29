@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css" />
+  <title>Urban-Living</title>
+</head>
+
+<body>
+  <!-- NAVIGATION BAR -->
+  <nav class="navBar">
+    <div id="navMenu" class="slide-back"><i class="fas fa-bars slide-back"></i></div>
+    <div class="logo">
+      <img src="./img/logo/UrbanLiving-Logo.png" alt="" />
+    </div>
+    <div id="shoppingCart" class="slide-back-cart"><i class="fas fa-shopping-cart slide-back-cart"></i></div>
+  </nav>
+
+  <!-- FIXED MENU -->
+  <div id="menu" class="slide-back">
+    <div class="searchBar"><i class="fas fa-search search-icon"></i></div>
+    <ul>
+      <li id="seeAll">
+        <a href="#">Categories</a>
+      </li>
+      <li id="chairs">
+        <a href="#">Chairs</a>
+      </li>
+      <li id="couches">
+        <a href="#">Couches</a>
+      </li>
+      <li id="lamps">
+        <a href="#">Lamps</a>
+      </li>
+      <li id="tables">
+        <a href="#">Tables</a>
+      </li>
+      <li>
+        <a href="#">About UL</a>
+      </li>
+      <li id="register">
+        <a href="#">Register</a>
+      </li>
+      <!-- <li id="login">
+        <a href="#">Login</a>
+      </li> -->
+      <li id="about-us">
+        <a href="#">About Us</a>
+      </li>
+      <li id="impressum">
+        <a href="#">Impressum</a>
+      </li>
+    </ul>
+
+    <!-- SEARCH -->
+    <div class="headline-search">Search</div>
+    <div class="search-block">
+      <label for="">Name</label>
+      <input type="text" id="input-name">
+
+      <label for="Category">Category</label>
+      <select name="Category" id="input-category">
+        <option value="false">...</option>
+        <option value="chair">Chairs</option>
+        <option value="couch">Couches</option>
+        <option value="lamp">Lamps</option>
+        <option value="table">Tables</option>
+      </select>
+
+      <label for="Color">Color</label>
+      <select name="Color" id="input-color">
+        <option value="false">...</option>
+        <option value="black">Black</option>
+        <option value="white">White</option>
+        <option value="brown">Brown</option>
+        <option value="grey">Grey</option>
+        <option value="gold">Gold</option>
+      </select>
+      <label for="">Maximal price</label>
+      <input type="number" name="" id="input-number" placeholder="max 3000" max="3000" value="0">
+      <div class="div-btn">
+        <input class="btn btn-clear" type="submit" value="CLEAR"><input class="btn btn-search" type="submit"
+          value="SEARCH">
+      </div>
+    </div>
+  </div>
+
+  <!-- FIXED SHOPING CARD -->
+  <div id="shoping-card" class="slide-back-cart">
+    <h3>Shoping Cart</h3>
+    <ul class="shopping-card-container">
+
+    </ul>
+    <div id="total">
+      <span>Total cost: </span><span class="fl-r">$</span><span id="totalCost" class="fl-r">0</span>
+      <button class="buy-now btn">BUY NOW!</button>
+    </div>
+  </div>
+
+  <!-- END NAVOGATION BAR -->
+  <!-- CONTAINER -->
+  <h1 id="headline" class="slide-back slide-back-cart"></h1>
+  <div id="product-container" class="container container-flex slide-back slide-back-cart">
+    <label for="firstName">First name</label>
+    <input type="text" id="firstName">
+
+    <label for="lastName">Last name</label>
+    <input type="text" id="LastName">
+  </div>
+
+  </div>
+  </div>
+
+  <footer class="footer"></footer>
+
+  <script src="./js/app.js"></script>
+</body>
+
+</html>
